@@ -27,9 +27,9 @@ Do uruchomienia projektu potrzebujesz:
 
 ## Instrukcja instalacji
 
-1. **Klonowanie repozytorium:**
-2. **Instalacja zależności:**
-3. **Instalacja Playwright:**
+1. **Klonowanie repozytorium**
+2. **Instalacja zależności**
+3. **Instalacja Playwright**
 
 ---
 
