@@ -1,0 +1,20 @@
+{
+	"compilerOptions": {
+		"target": "ESNext",
+		"strict": true,
+		"skipLibCheck": true,
+		"forceConsistentCasingInFileNames": true,
+		"moduleResolution": "node",
+		"module": "ESNext",
+		"resolveJsonModule": true,
+		"esModuleInterop": true,
+
+		"baseUrl": ".",
+		"paths": {
+			"@fixtures/*": ["fixtures/*"],
+			"@pages/*": ["pages/*"],
+			"@providers/*": ["providers/*"]
+		}
+
+	}
+}

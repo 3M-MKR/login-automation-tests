@@ -1,0 +1,9 @@
+{
+	"forgotEmailLinkText": "Forgot email?",
+	"emailOrPhonePlaceholderText": "Email or phone",
+	"enterYourPasswordPlaceholderText": "Enter your password",
+	"mainMessagesText": "Główne",
+	"incorrectEmailMessage": "Couldn’t find your Google",
+	"incorrectPasswordMessage": "Wrong password",
+	"createNewMessageButtonText": "Utwórz"
+}
