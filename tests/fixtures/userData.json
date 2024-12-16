@@ -1,0 +1,6 @@
+{
+	"correctTestUserEmail": "automation.tests.project@gmail.com",
+	"correctTestUserPassword": "Tests123!",
+	"incorrectTestUserEmail": "automation.tests.project@gmail.pl",
+	"incorrectTestUserPassword": "Tests1234!"
+}

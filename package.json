@@ -1,0 +1,25 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/3M-MKR/login-automation-tests.git"
+  },
+  "author": "Magdalena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/3M-MKR/login-automation-tests/issues"
+  },
+  "homepage": "https://github.com/3M-MKR/login-automation-tests#readme",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.49.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1"
+  }
+}
